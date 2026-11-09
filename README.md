@@ -28,8 +28,8 @@ I build practical applications across web development, AI, backend systems, test
 ## Full-Stack & Web Development
 
 - [GradeMaster MERN](https://github.com/mohammadsh99/GradeMaster-MERN) — Student and academic management platform.
-- [Real-Time Chat App](https://github.com/mohammadsh99/projectchatApp2) — Messaging, authentication, online status and image uploads using React, Node.js, Socket.IO and MongoDB.
-- [Product Store](https://github.com/mohammadsh99/projectStore1) — Product CRUD app using React, Zustand, Express and MongoDB.
+- [Real-Time Chat App](https://github.com/mohammadsh99/realtime-chat-app) — Messaging, authentication, online status and image uploads using React, Node.js, Socket.IO and MongoDB.
+- [Product Store](https://github.com/mohammadsh99/mern-product-store) — Product CRUD app using React, Zustand, Express and MongoDB.
 - [Student Exam Management System](https://github.com/mohammadsh99/student-exam-management-system) — ASP.NET Core, Razor Pages, Entity Framework Core and SQL Server.
 - [Event RSVP Manager](https://github.com/mohammadsh99/Xperience-Task-1-2026-04-) — Spring Boot and React application with capacity and waitlist logic.
 - [Chello Menu](https://github.com/mohammadsh99/chello-menu) — Web-based restaurant menu with barcode access.
