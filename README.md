@@ -22,6 +22,7 @@ I build practical applications across web development, AI, backend systems, test
 | [Linux Network Diagnostics](https://github.com/mohammadsh99/linux-network-diagnostics) | Network inspection, connectivity checks, benchmarking | Python, Linux, sockets, pytest |
 | [Event RSVP Manager](https://github.com/mohammadsh99/Xperience-Task-1-2026-04-) | Events, invitation tokens, capacity and waitlist rules | Java, Spring Boot, React, TypeScript, PostgreSQL |
 | [AI Log Debugger RAG](https://github.com/mohammadsh99/ai-log-debugger-rag) | Log analysis with semantic retrieval and local LLM | FastAPI, PostgreSQL, pgvector, Ollama |
+| [LLM Serving Benchmarks](https://github.com/mohammadsh99/llm-serving-benchmarks) | Python benchmarking of local Ollama and CPU-based vLLM inference, measuring streaming latency, time to first text, concurrent-request performance, and request throughput. | Python, Ollama, vLLM, Docker |
 | [GradeMaster MERN](https://github.com/mohammadsh99/GradeMaster-MERN) | Student, course, attendance and grade management | React, Redux, Express, MongoDB |
 | [Callback Form Automation](https://github.com/mohammadsh99/callback-form-automation) | End-to-end browser testing using page objects | JavaScript, Playwright |
 
@@ -39,6 +40,7 @@ I build practical applications across web development, AI, backend systems, test
 - [AI Doctor Assistant — LLaMA Fine-Tuning](https://github.com/mohammadsh99/ai-doctor-assistant-llama3) — Educational medical-dialogue fine-tuning using LoRA and Unsloth; not for medical diagnosis.
 - [AI Log Debugger RAG](https://github.com/mohammadsh99/ai-log-debugger-rag) — Retrieval over known software errors using PostgreSQL/pgvector and Ollama.
 - [AI Troubleshooting Assistant](https://github.com/mohammadsh99/ai-troubleshooting-assistant) — Full-stack AI troubleshooting with structured results and automated tests.
+- [LLM Serving Benchmarks](https://github.com/mohammadsh99/llm-serving-benchmarks) — Python benchmarking of local Ollama and CPU-based vLLM inference, measuring streaming latency, time to first text, concurrent-request performance, and request throughput.
 - [Local RAG Store](https://github.com/mohammadsh99/local-rag-store) — Small policy question-answering demo with FAISS and Sentence Transformers.
 - [Store Policy Agent](https://github.com/mohammadsh99/store-policy-agent) — Local tool-calling agent with FAISS retrieval and standalone agent examples.
 
